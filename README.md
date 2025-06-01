@@ -1,6 +1,6 @@
 # Satyabrata Pradhan
 
-🎓 Master’s Student | 🤖 Robotics & AI Enthusiast | 🌍 Globally Oriented Engineer
+🎓 Master’s Student | 🤖 Robotics & AI Enthusiast
 
 📍 Stuttgart, Germany  
 📧 spradhan143as@gmail.com  
@@ -11,20 +11,19 @@
 ---
 
 ## 🔬 Research Interests
-- AI in Healthcare & Medical Imaging
-- Embedded Robotics & Intelligent Systems
-- Simulation & Model Reduction (port-Hamiltonian Systems)
-- Deep Learning (Cardiac MRI, MPPT algorithms)
+- AI and Machine Learning
+- Deep Learning and Robotics
+- Software Development and Automation
 
 ---
 
 ## 📚 Education
-- **M.Sc. Electrical Engineering**, University of Stuttgart (Germany), *2022–2025*  
+- **M.Sc. Electrical Engineering**, University of Stuttgart (Germany), *2022–2026*  
   • Major in Smart Systems – Ranked 2nd  
 - **ACAP Exchange**, Tokyo Institute of Technology (Japan), *2024*  
   • Computer Science – Global academic collaboration  
 - **B.Tech. Electrical Engineering**, NIT Silchar (India), *2016–2020*  
-  • Ranked 3rd in class of 120  
+  • Ranked 3rd in a class of 120  
 
 ---
 
@@ -35,9 +34,12 @@
 > Developing Julia packages for port-Hamiltonian systems and model reduction.
 
 **Working Student**  
-*Robert Bosch GmbH – Stuttgart & Ludwigsburg, 2023–2024*  
-> - Developed pipelines for siren detection (ROS, Azure, Docker)  
-> - Built 3-axis robot arm with Raspberry Pi + Jenkins integration  
+*Robert Bosch GmbH – Stuttgart & Ludwigsburg, Sep 2024– Present*  
+> - Built 3-axis PAN-Tilt Robot arm with Raspberry Pi using Python
+> - Test Linux Drivers and integrate into Jenkins pipeline
+
+*Robert Bosch GmbH – Stuttgart, Oct 2023– Mar 2024*  
+> - Developed pipelines for siren detection (ROS, Azure, Docker)
 
 **Senior Software Engineer**  
 *Huawei R&D Bangalore, 2020–2022*  
@@ -47,7 +49,7 @@
 ---
 
 ## 🧠 Skills
-`Python`, `C`, `Julia`, `MATLAB`, `Docker`, `Azure`, `ROS`, `Simulink`, `Git`, `Linux`, `Neural Networks`, `Machine Learning`, `Shell`, `Elasticsearch`, `Raspberry Pi`
+`Python`, `C`, `Julia`, `MATLAB`, `Docker`, `Azure`, `ROS`, `Simulink`, `Git`, `Linux`, `Neural Networks`, `Deep Learning`, `Machine Learning`, `Shell`, `Elasticsearch`, `Raspberry Pi`
 
 ---
 
