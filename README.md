@@ -35,11 +35,11 @@
 
 **Working Student**  
 *Robert Bosch GmbH – Stuttgart & Ludwigsburg, Sep 2024– Present*  
-> - Built 3-axis PAN-Tilt Robot arm with Raspberry Pi using Python
-> - Test Linux Drivers and integrate into Jenkins pipeline
+> - Built 3-axis PAN-Tilt Robot arm with Raspberry Pi using Python and C
+> - Test Linux Drivers and integrate into Jenkins CI pipeline
 
 *Robert Bosch GmbH – Stuttgart, Oct 2023– Mar 2024*  
-> - Developed pipelines for siren detection (ROS, Azure, Docker)
+> - Developed pipelines for siren detection (Python, ROS, Azure, Docker)
 
 **Senior Software Engineer**  
 *Huawei R&D Bangalore, 2020–2022*  
@@ -49,7 +49,7 @@
 ---
 
 ## 🧠 Skills
-`Python`, `C`, `Julia`, `MATLAB`, `Docker`, `Azure`, `ROS`, `Simulink`, `Git`, `Linux`, `Neural Networks`, `Deep Learning`, `Machine Learning`, `Shell`, `Elasticsearch`, `Raspberry Pi`
+`Python`, `C`, `Julia`, `MATLAB`, `Simulink`, `Docker`, `Azure`, `ROS`, `Simulink`, `Git`, `Linux`, `Deep Learning`, `Machine Learning`, `Shell`, `Elasticsearch`, `Raspberry Pi`, `Tensorflow`, `PyTorch`, `Automotive Radar`, `Autonomous Driving`
 
 ---
 
@@ -61,4 +61,4 @@
 ---
 
 ## 📄 CV
-[Download My CV (PDF)](assets/files/Satya-CV-2025C-en.pdf)
+[Download My CV (PDF)](assets/files/Satya-CV-2025C-merged.pdf)
