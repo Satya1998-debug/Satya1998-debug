@@ -1,5 +1,5 @@
 # Satyabrata Pradhan
-![That's Me](assets/my_pic.png)
+![That's Me](assets/mypic.jpg)
 
 🎓 Master’s Student | 🤖 Robotics & AI Enthusiast
 
