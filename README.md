@@ -19,19 +19,33 @@
 
 ## 📚 Education
 - **M.Sc. Electrical Engineering**, University of Stuttgart (Germany), *2022–2026*  
-  • Major in Smart Systems – Ranked 2nd  
+  • Major in Smart Systems – Ranked 3rd
+  • Grade: 1,8
 - **ACAP Exchange**, Tokyo Institute of Technology (Japan), *2024*  
-  • Computer Science – Global academic collaboration  
-- **B.Tech. Electrical Engineering**, NIT Silchar (India), *2016–2020*  
-  • Ranked 3rd in a class of 120  
+  • Computer Science – Global academic collaboration
+  • Grade: 1,2
+- **B.Tech. Electrical Engineering**, National Institute of Technology, Silchar (India), *2016–2020*  
+  • Ranked 3rd in a class of 120
+  • Grade: 1,3
 
 ---
 
 ## 💼 Work Experience
 
-**Graduate Research Assistant**  
-*University of Stuttgart – SimTech Cluster, Feb 2025 – Present*  
+**Student Research Assistant**  
+*University of Stuttgart – SimTech - Cluster of Excellence, Feb 2025 – Present*  
 > Developing Julia packages for port-Hamiltonian systems and model reduction.
+
+*University of Stuttgart – Institut für Parallele und Verteilte Systeme (IPVS) , April 2024 – Jan, 2025*  
+> Formulated the project proposal for a DC-enabled microgrid in Africa (Ghana, Nigeria, and Mozambique).
+> REnergetic project proposal, issue fixing, and development of user manual for various Pilots, Users & Clients.
+
+*University of Stuttgart – Institut für Luftfahrtantriebe (ILA) , Nov 2023 – July, 2024*  
+> Worked on the Automation and Optimization of the Stuttgart High Altitude Testing Facility for testing of aircraft engines.
+> Literature review and design of non-linear PID controllers for the test cell using MATLAB and Simulink for highly-coupled systems.
+
+*University of Stuttgart – Institut für Raumfahrtsysteme (IRS) , Nov 2022 – Nov, 2023*
+> Implemented Lossless Data Compression (Rice Encoder) using C, for the Flight software for the Destiny+ Dust Analyser in the Japanese Asteroid Mission.
 
 **Working Student**  
 *Robert Bosch GmbH – Stuttgart & Ludwigsburg, Sep 2024– Present*  
@@ -61,4 +75,4 @@
 ---
 
 ## 📄 CV
-[Download My CV (PDF)](assets/files/Satya-CV-2025C-merged.pdf)
+[Download My CV (PDF)](assets/CV_satya_25_merged.pdf)
