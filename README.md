@@ -32,21 +32,6 @@
 
 ## 💼 Work Experience
 
-**Student Research Assistant**  
-*University of Stuttgart – SimTech - Cluster of Excellence, Feb 2025 – Present*  
-> Developing Julia packages for port-Hamiltonian systems and model reduction.
-
-*University of Stuttgart – Institut für Parallele und Verteilte Systeme (IPVS) , April 2024 – Jan, 2025*  
-> Formulated the project proposal for a DC-enabled microgrid in Africa (Ghana, Nigeria, and Mozambique).
-> REnergetic project proposal, issue fixing, and development of user manual for various Pilots, Users & Clients.
-
-*University of Stuttgart – Institut für Luftfahrtantriebe (ILA) , Nov 2023 – July, 2024*  
-> Worked on the Automation and Optimization of the Stuttgart High Altitude Testing Facility for testing of aircraft engines.
-> Literature review and design of non-linear PID controllers for the test cell using MATLAB and Simulink for highly-coupled systems.
-
-*University of Stuttgart – Institut für Raumfahrtsysteme (IRS) , Nov 2022 – Nov, 2023*
-> Implemented Lossless Data Compression (Rice Encoder) using C, for the Flight software for the Destiny+ Dust Analyser in the Japanese Asteroid Mission.
-
 **Working Student**  
 *Robert Bosch GmbH – Stuttgart & Ludwigsburg, Sep 2024– Present*  
 > - Built 3-axis PAN-Tilt Robot arm with Raspberry Pi using Python and C
@@ -54,6 +39,21 @@
 
 *Robert Bosch GmbH – Stuttgart, Oct 2023– Mar 2024*  
 > - Developed pipelines for siren detection (Python, ROS, Azure, Docker)
+
+**Student Research Assistant (University of Stuttgart)**  
+*SimTech - Cluster of Excellence, Feb 2025 – Present*  
+> - Developing Julia packages for port-Hamiltonian systems and model reduction.
+
+*Institut für Parallele und Verteilte Systeme (IPVS) , April 2024 – Jan, 2025*  
+> - Formulated the project proposal for a DC-enabled microgrid in Africa (Ghana, Nigeria, and Mozambique).
+> - REnergetic project proposal, issue fixing, and development of user manual for various Pilots, Users & Clients.
+
+*Institut für Luftfahrtantriebe (ILA) , Nov 2023 – July, 2024*  
+> - Worked on the Automation and Optimization of the Stuttgart High Altitude Testing Facility for testing of aircraft engines.
+> - Literature review and design of non-linear PID controllers for the test cell using MATLAB and Simulink for highly-coupled systems.
+
+*Institut für Raumfahrtsysteme (IRS) , Nov 2022 – Nov, 2023*
+> - Implemented Lossless Data Compression (Rice Encoder) using C, for the Flight software for the Destiny+ Dust Analyser in the Japanese Asteroid Mission.
 
 **Senior Software Engineer**  
 *Huawei R&D Bangalore, 2020–2022*  
@@ -73,6 +73,9 @@
 - **Huawei Future Star 2020** – Innovation & coding excellence in Huawei R&D  
 
 ---
+
+## 📚 Publications
+- A. Sen, S. Pradhan and A. Kumar, "**A Novel Curve Scanning Based Maximum Power Point Tracking Algorithm Under Partial Shading Conditions**," 2020 IEEE First International Conference on Smart Technologies for Power, Energy and Control (STPEC), Nagpur, India, 2020, pp. 1-6, doi: 10.1109/STPEC49749.2020.9297794.
 
 ## 📄 CV
 [Download My CV (PDF)](assets/CV_satya_25_merged.pdf)
