@@ -7,6 +7,8 @@
 📞 +49 1551 046 4821  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://www.linkedin.com/in/satyabrata-pradhan-00a6b916b/)
 [![GitHub](https://img.shields.io/badge/GitHub-black?logo=github)](https://github.com/Satya1998-debug)
+[![Website](https://img.shields.io/badge/Portfolio-satyabrata.dev-blue?style=flat-square&logo=google-chrome)](https://satya1998-debug.github.io/)
+
 
 ---
 
