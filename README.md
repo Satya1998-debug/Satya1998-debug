@@ -36,6 +36,20 @@
 
 ---
 
+## Thesis
+
+**Master Thesis**
+*Institute of Industrial Automation and Software Systems (IAS), University of Stuttgart, Jun 2025 – Present* 
+> - Working on Human-Robot Collaboration to train RobotDog for Indoor Navigation
+
+**Research Thesis**
+*Institute of Signal Processing and System Theory (ISS), University of Stuttgart, Nov 2024 – May 2025*  
+• Grade: 1,0
+> - Developed a Feature Extraction Framework from Cardiac MRI.
+> - Integration of various Deep Learning models and Open-source architectures for feature extraction and strain analysis.
+> - Developed an Interactive Diagnostic Dashboard for visualizing the features and patient distribution.
+
+
 ## 💼 Work Experience
 
 **Working Student**  
