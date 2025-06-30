@@ -13,16 +13,20 @@
 ---
 
 ## 🔬 Research Interests
-- AI and Machine Learning
-- Deep Learning and Robotics
+- AI
+- Machine Learning
+- Deep Learning
+- Robotics
+- Computer Vision
 - Software Development and Automation
+- Human-Robot Interaction
 
 ---
 
 ## 📚 Education
 - **M.Sc. Electrical Engineering**, University of Stuttgart (Germany), *2022–2026*  
   • Major in Smart Systems – Ranked 3rd
-  • Grade: 1,8
+  • Grade: 1,6
 - **ACAP Exchange**, Tokyo Institute of Technology (Japan), *2024*  
   • Computer Science – Global academic collaboration
   • Grade: 1,2
@@ -65,7 +69,7 @@
 ---
 
 ## 🧠 Skills
-`Python`, `C`, `Julia`, `MATLAB`, `Simulink`, `Docker`, `Azure`, `ROS`, `Simulink`, `Git`, `Linux`, `Deep Learning`, `Machine Learning`, `Shell`, `Elasticsearch`, `Raspberry Pi`, `Tensorflow`, `PyTorch`, `Automotive Radar`, `Autonomous Driving`
+`Python`, `C`, `Julia`, `OpenCV`, `MATLAB`, `Simulink`, `Docker`, `Azure`, `ROS`, `Simulink`, `Git`, `Linux`, `Deep Learning`, `Machine Learning`, `Shell`, `Elasticsearch`, `Raspberry Pi`, `TensorFlow`, `PyTorch`, `Automotive Radar`, `Autonomous Driving`
 
 ---
 
